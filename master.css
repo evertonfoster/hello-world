@@ -1,0 +1,53 @@
+body{
+  background-color: pink;
+}
+
+
+
+
+.highlighter{
+background-color: blue;
+}
+h1{
+  text-align:center;
+
+
+}
+h1.hp{
+  background-color: #ae9dfb;
+  color:#f64593;
+}
+
+
+h2{
+    text-align:center;
+
+
+
+}
+h2.hp{
+  background-color: #ae9dfb;
+  color:#f64593;
+  }
+}
+
+}
+p{
+    text-align:center;
+
+
+
+
+}
+p.hp{
+  background-color: #ae9dfb;
+  color:#f64593;
+  }
+
+
+
+h3.ap{
+    color:#f64593;
+}
+.namegen{
+  background-color: lightblue:
